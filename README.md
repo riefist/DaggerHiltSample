@@ -1,5 +1,5 @@
 # DaggerHiltSample
-Tech Stack 
+Learn Dagger Hilt with Stack : 
 - Dagger Hilt
 - Retrofit
 - Coroutines
