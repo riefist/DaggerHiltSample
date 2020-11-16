@@ -5,3 +5,4 @@ Tech Stack
 - Coroutines
 - MVVM
 - Coil
+- View Binding
