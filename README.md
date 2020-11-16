@@ -1,2 +1,7 @@
 # DaggerHiltSample
-Learn Dagger Hilt
+Tech Stack 
+- Dagger Hilt
+- Retrofit
+- Coroutines
+- MVVM
+- Coil
