@@ -1,0 +1,3 @@
+[submodule "MyLibExample"]
+	path = MyLibExample
+	url = https://github.com/riefist/MyLibExample.git
