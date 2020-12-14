@@ -6,3 +6,4 @@ Learn Dagger Hilt with Stack :
 - MVVM
 - Coil
 - View Binding
+- CI/CD (Travis/Fastlane/Firebase App Distribution)
