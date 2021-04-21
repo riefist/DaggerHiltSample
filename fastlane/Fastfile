@@ -24,7 +24,6 @@ platform :android do
   desc "Submit a new Beta Build to Crashlytics Beta"
   lane :beta do
     gradle(task: "clean")
-    gradle(task: "testProductionRelease")
     gradle(task: "assembleDebug")
 
     firebase_app_distribution(
